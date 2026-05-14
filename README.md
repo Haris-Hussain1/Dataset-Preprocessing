@@ -2,7 +2,7 @@
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 This project focuses on comprehensive **data preprocessing and visualization** of the Penguins dataset using Python. Through systematic data cleaning, exploration, and visualization techniques, we uncover meaningful patterns and relationships among different penguin species. The project demonstrates essential data science workflows including data inspection, missing value handling, statistical analysis, and various visualization methods.
 
@@ -177,7 +177,7 @@ plt.show()
 
 ---
 
-## 🔍 Observations and Findings
+##  Observations and Findings
 
 ### Key Insights Discovered:
 
@@ -260,7 +260,7 @@ Passionate data science enthusiast with expertise in Python, data analysis, and 
 ---
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Palmer Station Antarctica LTER** for providing the Penguins dataset
 - **Python Data Science Community** for excellent libraries and resources
@@ -272,9 +272,9 @@ Passionate data science enthusiast with expertise in Python, data analysis, and 
 
 Feel free to reach out for collaborations, questions, or discussions about this project!
 
-📧 **Email**: Harishussain631@gmail.com  
+ **Email**: Harishussain631@gmail.com  
 
 
 ---
 
-⭐ **If you found this project helpful, please consider giving it a star!** ⭐
+ **If you found this project helpful, please consider giving it a star!** 
